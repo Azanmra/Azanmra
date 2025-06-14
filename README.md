@@ -1,7 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Azan <br/><a href="https://github.com/Azanmra">Programmer</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+- <b>Python</b>
+
+[linkedin]: https://linkedin.com/in/
 
 <!--
-**Azanmra/Azanmra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
