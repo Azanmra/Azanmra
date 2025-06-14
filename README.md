@@ -1,4 +1,4 @@
-<h1>Hi, I'm Azan <br/><a href="https://github.com/Azanmra">Programmer</a>
+<h1>Hi, I'm Azan <br/><a href="https://github.com/Azanmra"
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
