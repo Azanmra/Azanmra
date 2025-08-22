@@ -4,5 +4,15 @@
 
 <h2> IT Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [SIEM Azure Honeypot Homelab](https://github.com/Azanmra/SIEM-AzureHomeLab.git)
+
+- <b>C# (.NET)</b>
+  - [Active Directory Homelab](https://github.com/Azanmra/Ransomware-Simulation.git)
+    
 - <b>PowerShell</b>
   - [Active Directory Homelab](https://github.com/Azanmra/ActiveDirectory-HomeLab.git)
+
+
+ 
+  
