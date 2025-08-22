@@ -13,6 +13,8 @@
 - <b>PowerShell</b>
   - [Active Directory Homelab](https://github.com/Azanmra/ActiveDirectory-HomeLab.git)
 
+- <b>C++</b>
+  - [Class-Roster](https://github.com/Azanmra/Class-Roster.git)
 
  
   
