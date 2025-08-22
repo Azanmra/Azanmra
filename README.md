@@ -2,7 +2,7 @@
 🎓 I'm a Computer Science student 
 💻 Check out some of my projects below — I’m always learning and building! <br/><a href="https://github.com/Azanmra"
 
-<h2> IT Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [SIEM Azure Honeypot Homelab](https://github.com/Azanmra/SIEM-AzureHomeLab.git)
