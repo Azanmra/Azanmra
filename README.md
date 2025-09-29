@@ -16,5 +16,8 @@
 - <b>C++</b>
   - [Class-Roster](https://github.com/Azanmra/Class-Roster.git)
 
+- <b>Java</b>
+  - [Spring Inventory Application](https://github.com/Azanmra/Web-based-spring-inventory-application.git)
+
  
   
